@@ -16,8 +16,9 @@ I'm an Undergraduate Student in Informatics Engineering at Semarang University, 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilahpw&show_icons=true&theme=tokyonight)
 
 ## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/nabilah-putri-wijaya-52b2bb291)  
-[![Email](https://img.shields.io/badge/Email-blue?logo=email&style=for-the-badge)](nabilahputriwijaya@gmail.com)
+-📫https://www.linkedin.com/in/nabilah-putri-wijaya-52b2bb291/
+
+-📫nabilahputriwijaya@gmail.com
 
 
 ## 🎭 Fun Fact:
