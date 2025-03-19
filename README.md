@@ -3,8 +3,6 @@
 
 I'm an Undergraduate Student in Informatics Engineering at Semarang University, with a strong passion for Artificial Intelligence (AI) and Information Technology (IT). Currently, I'm also an AI Student at Infinite Learning Indonesia, where I expand my knowledge and skills in AI. As a tech enthusiast, I'm eager to explore innovations, solve problems, and contribute to the ever-evolving world of technology. 🚀
 
-# Hi there! 👋 I'm [Your Name]
-
 🚀 **IT & AI Enthusiast | Python Developer**  
 📚 Passionate about Data Analysis, Machine Learning, and Web Development  
 🎯 Currently exploring AI-driven solutions and Django-based web applications  
