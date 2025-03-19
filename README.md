@@ -22,7 +22,7 @@ I'm an Undergraduate Student in Informatics Engineering at Semarang University, 
 
 
 ## 🎭 Fun Fact:
-💡 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler  
+💡 "Makan, Tidur, Ngoding." 
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
