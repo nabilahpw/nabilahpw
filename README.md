@@ -17,7 +17,8 @@ I'm an Undergraduate Student in Informatics Engineering at Semarang University, 
 
 ## 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/nabilah-putri-wijaya-52b2bb291)  
-[![Email](https://img.shields.io/badge/Email-blue?logo=email&style=for-the-badge)](nabilahputriwijaya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blue?logo=email&style=for-the-badge)]nabilahputriwijaya@gmail.com
+
 
 ## 🎭 Fun Fact:
 💡 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler  
