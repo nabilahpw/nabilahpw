@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src=”http://link-foto”>
+<img src=”https://github.com/nabilahpw/nabilahpw/blob/main/linkedin%20banner.png”>
 
 <!--
 **nabilahpw/nabilahpw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
