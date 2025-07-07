@@ -1,5 +1,5 @@
 ## HI, I'M NABILAH 👋🏾 👩🏾‍💻
-![Header Image][(https://media.licdn.com/dms/image/v2/D4D16AQEznejem1AGBw/profile-displaybackgroundimage-shrink_350_1400/B4DZWuVuE2GcAY-/0/1742386686219?e=1747872000&v=beta&t=Ywf25RUoogg1gnwTPzjE2jkLM9NRCfJ-uQoz-n9wHX0)]
+![header](https://media.licdn.com/dms/image/v2/D4D16AQEznejem1AGBw/profile-displaybackgroundimage-shrink_350_1400/B4DZWuVuE2GcAY-/0/1742386686219?e=1757548800&v=beta&t=gDbFbh4MxaTR0sdlaI2Qdmumchmr_H-xGfUJBf8mROo)
 
 I'm an Undergraduate Student in Informatics Engineering at Semarang University, with a strong passion for Artificial Intelligence (AI) and Information Technology (IT). Currently, I'm also an AI Student at Infinite Learning Indonesia, where I expand my knowledge and skills in AI. As a tech enthusiast, I'm eager to explore innovations, solve problems, and contribute to the ever-evolving world of technology. 🚀
 
